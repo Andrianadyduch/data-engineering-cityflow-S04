@@ -1,0 +1,9 @@
+data/raw/*
+!data/raw/README.md
+
+.venv/
+.env
+
+*.zip
+
+.ipynb_checkpoints/
