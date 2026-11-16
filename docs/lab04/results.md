@@ -2,7 +2,7 @@
 
 **Student ID:** S04  
 **Python / PostgreSQL:** 3.12.16 / 16.15
-**Коміт / Pull Request:** 
+**Коміт / Pull Request:** https://github.com/Andrianadyduch/data-engineering-cityflow-S04/pull/3
 **SHA-256 вихідного ZIP:** `d74e70ccd2255282158bb3779a3bd0943c5598618c1a3e858480f630da0f958d`
 
 ## Кількості для власного варіанта
