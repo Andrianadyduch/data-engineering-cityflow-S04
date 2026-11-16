@@ -7,3 +7,12 @@ data/raw/*
 *.zip
 
 .ipynb_checkpoints/
+# Lab 04 - local files and secrets
+.env.lab04
+.venv-lab04/
+data/lab04_variant/
+data/lab04_raw/
+backups/
+**/.DS_Store
+__pycache__/
+.pytest_cache/
